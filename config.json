@@ -1,12 +1,12 @@
 {
   "inbounds": [
     {
-      "port": 10000, 
+      "port": 10000,  
       "protocol": "vless",
       "settings": {
         "clients": [
           {
-            "id": "76ce0f8b-2431-4ff3-8178-4336149adce6", 
+            "id": "76ce0f8b-2431-4ff3-8178-4336149adce6",  
             "flow": ""
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/ray" 
+          "path": "/ray"  
         }
       }
     }
