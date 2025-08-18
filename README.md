@@ -18,7 +18,7 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/<ваш-username>/vless-render.git
+git clone https://github.com/filincprt/xray-render.git
 cd vless-render
 ```
 
