@@ -1,4 +1,4 @@
-# 🚀 VLESS-сервер на Render.com
+# 🚀 VLESS-сервер на Render.com by filin_cprt 
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
