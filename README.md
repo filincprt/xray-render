@@ -19,7 +19,7 @@
 ### 1. Клонируйте репозиторий
 ```bash
 git clone https://github.com/filincprt/xray-render.git
-cd vless-render
+cd xray-render
 ```
 
 ### 2. Настройте конфигурацию
